@@ -24,8 +24,6 @@ class Blog
        innerdiv.appendChild(desccard)
         desccard.innerHTML = this.detail
     }
-
-
 }
 
 
